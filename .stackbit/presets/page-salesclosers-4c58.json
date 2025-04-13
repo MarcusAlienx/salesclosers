@@ -1,0 +1,224 @@
+{
+    "model": "page",
+    "srcType": "sanity",
+    "srcProjectId": "im9zc5j1:production",
+    "presets": [
+        {
+            "label": "SALESCLOSERS",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "websites"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Sales Closers",
+                "slug": "/",
+                "sections": [
+                    {
+                        "$$type": "heroSection",
+                        "heading": "Revolutionize Your Business with AI-Powered Solutions",
+                        "body": "At **Sales Closers**, we believe in the transformative power of artificial intelligence. Our cutting-edge AI solutions are designed to elevate your business operations, enhance decision-making, and drive unprecedented growth by providing expert sales professionals who specialize in closing deals efficiently\n",
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Contact Us",
+                                "url": "https://wa.me/14807885653",
+                                "ariaLabel": null,
+                                "theme": "accent"
+                            }
+                        ],
+                        "theme": "dark",
+                        "backgroundImage": {
+                            "$$type": "backgroundImage",
+                            "image": {
+                                "$$ref": "image-ad2949807a385f86231fe318b780cba2179c3f76-1600x900-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "opacity": 40
+                        },
+                        "width": "inset"
+                    },
+                    {
+                        "$$type": "heroSection",
+                        "heading": "Our Mission",
+                        "body": "<div style=\"text-align: justify;\">\n  <p>\n    We help businesses increase revenue by providing expert sales professionals who specialize in closing deals efficiently. We handle the most crucial stage of the sales process—turning qualified leads into paying customers. Our team\n  </p>\n\n  <hr style=\"border: none; height: 1px; background-color: #ccc; margin: 20px 0;\">\n\n  <p>\n    leverages proven techniques, persuasive communication, and deep industry knowledge to maximize conversion rates and drive growth. By partnering with <strong>Sales Closers</strong>, companies can scale their sales efforts without the overhead of hiring and training an in-house team.\n  </p>\n</div>\n\n",
+                        "cta": [],
+                        "theme": "dark",
+                        "backgroundImage": null,
+                        "width": "inset"
+                    },
+                    {
+                        "$$type": "cardsSection",
+                        "heading": "Technology",
+                        "body": "<div style=\"text-align: justify;\">\n  <p>\n    We leverage cutting-edge technology and a proven sales framework to maximize conversions and drive revenue growth for our clients.\n  </p>\n\n  <p>\n    We utilize AI-powered CRM systems, sales automation tools, and data analytics to streamline the sales process. Our tech stack includes:\n  </p>\n</div>\n",
+                        "items": [
+                            {
+                                "$$type": "card",
+                                "badge": {
+                                    "$$type": "badge",
+                                    "label": "PERFORMANCE",
+                                    "theme": "accent"
+                                },
+                                "heading": "State-of-the-Art Technology",
+                                "body": "<div style=\"text-align: left\">  <p>\n    At <strong>Sales Closers</strong>, we pride ourselves on leveraging the latest advancements in <strong>artificial intelligence</strong> and <strong>machine learning</strong>. Our research and development team is constantly innovating to bring you cutting-edge solutions that keep you ahead of the competition.\n  </p></div>\n\n",
+                                "cta": [],
+                                "image": {
+                                    "$$type": "customImage",
+                                    "image": {
+                                        "$$ref": "image-f822dd46bd0ca7adeb269c1098e8419cefc75a12-600x300-png",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "alt": "Alt text for the image"
+                                },
+                                "theme": null,
+                                "textAlign": null,
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "card",
+                                "badge": {
+                                    "$$type": "badge",
+                                    "label": "EXPAND",
+                                    "theme": "primary"
+                                },
+                                "heading": "Scalable Solutions",
+                                "body": "**AI-Driven Lead Scoring:** Prioritize high-conversion prospects so your team focuses on the most promising opportunities.\n\n**Automated Follow-Ups:** Ensure consistent engagement and timely communication with every lead.\n",
+                                "cta": [],
+                                "image": {
+                                    "$$type": "customImage",
+                                    "image": {
+                                        "$$ref": "image-ff8647d2b78130337a7864ef222524cf80f5505c-600x300-jpg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "alt": "Alt text for the image"
+                                },
+                                "theme": null,
+                                "textAlign": null,
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "card",
+                                "badge": {
+                                    "$$type": "badge",
+                                    "label": "EMPOWER",
+                                    "theme": "secondary"
+                                },
+                                "heading": "Transform Your Pipeline",
+                                "body": "**Real-Time Call Analytics:** Optimize your sales conversations with data-driven insights and actionable feedback.\n\n**Seamless Integration:** Connect effortlessly with your existing systems for unified data sharing and comprehensive reporting.\n\n",
+                                "cta": [],
+                                "image": {
+                                    "$$type": "customImage",
+                                    "image": {
+                                        "$$ref": "image-c213b07b9c36e6522b27f75ae879b2e0c6bda680-600x300-jpg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "alt": "Alt text for the image"
+                                },
+                                "theme": null,
+                                "textAlign": null,
+                                "hasBorder": true
+                            }
+                        ],
+                        "theme": null,
+                        "backgroundImage": null,
+                        "width": null,
+                        "columns": null
+                    },
+                    {
+                        "$$type": "heroSection",
+                        "heading": "Let's Meet and Grow Your Business Together",
+                        "body": "<div style=\"text-align: justify;\">\n  <p>\n    At <strong>Sales Closers</strong>, we believe that real connections drive real results. Meeting face-to-face gives us the chance to understand your goals, fine-tune your sales strategy, and align on the best path forward. Let us explore how we can help you scale—together.\n  </p>\n</div>",
+                        "cta": [],
+                        "theme": "light",
+                        "backgroundImage": null,
+                        "width": "inset"
+                    },
+                    {
+                        "$$type": "ctaSection",
+                        "heading": "Experience the future of sales —get in touch and see how our technology can transform your revenue pipeline.",
+                        "body": null,
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Contact Us",
+                                "url": "https://wa.me/14807885653",
+                                "ariaLabel": null,
+                                "theme": "primary"
+                            }
+                        ],
+                        "theme": "dark",
+                        "backgroundImage": {
+                            "$$type": "backgroundImage",
+                            "image": {
+                                "$$ref": "image-e4c9473fc0ff7f3fa23dc3c43e185a1d2a6d3005-1400x600-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "opacity": 60
+                        },
+                        "width": "inset"
+                    },
+                    {
+                        "$$type": "logosSection",
+                        "heading": "Technologies we use",
+                        "body": "Experience the future of sales—get in touch and see how our technology can transform your revenue pipeline\n",
+                        "items": [
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-b98137737bf9b92a0dd2349fddef05c16d2fde02-150x50-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "cloudflare"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-7a0f080da54cfa566425fd7965a98d0f5083cc52-206x50-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Open AI"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-f5475c45fb1cf4735e70374e42b52519a9e90249-130x44-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Google"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-cd37aff34b38eb72dfd6278eead64ec8989398ab-295x50-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Google analytics"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-9c96f6864fca9253beff9f6d3fb32def3098fddd-171x50-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Hubspot"
+                            }
+                        ],
+                        "theme": null,
+                        "backgroundImage": null,
+                        "width": null,
+                        "motion": null
+                    }
+                ],
+                "metaTitle": "Sales Closers",
+                "addTitleSuffix": true,
+                "metaDescription": "Where deals get closed!",
+                "socialImage": {
+                    "$$ref": "image-079149f0703ee4bf227da0944dae0b820ba8b5aa-258x100-png",
+                    "$$type": "__asset_model"
+                }
+            }
+        }
+    ]
+}
